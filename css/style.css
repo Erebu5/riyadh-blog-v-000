@@ -6,9 +6,7 @@ html, body {
 }
 
 body {
-  background-color: #808080
-  background-size: cover;
-  background-attachment: fixed;
+  color: #808080
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
@@ -62,7 +60,7 @@ a {
 }
 
 a:hover {
-  color: #CCFF00; 
+  color: #CCFF00;
   text-decoration: underline;
 }
 
